@@ -5,3 +5,4 @@ int main() {
     scanf ("%s", last_name);
     printf("Entered last name is %s\n", last_name);
 }
+
